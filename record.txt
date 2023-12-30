@@ -1,0 +1,14 @@
+Roll Number      => 22
+Marks of maths   => 99
+Marks of physics => 98
+Sports Score     => 5
+The total marks  => 202
+
+
+Roll Number      => 21
+Marks of maths   => 99
+Marks of physics => 99
+Sports Score     => 9
+The total marks  => 207
+
+

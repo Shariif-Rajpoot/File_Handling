@@ -1,0 +1,14 @@
+Name of student     => M.Mohsin
+Roll Number         => 22
+Marks Of Physics    => 98.2
+Marks Of Maths      => 99.2
+Percentage          => 98.7%
+
+
+Name of student     => Mohsina
+Roll Number         => 2
+Marks Of Physics    => 98.2
+Marks Of Maths      => 99.2
+Percentage          => 98.7%
+
+
